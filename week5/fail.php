@@ -1,1 +1,0 @@
-What we want to see below is a 'Fatal Error'.
