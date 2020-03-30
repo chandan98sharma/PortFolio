@@ -1,0 +1,11 @@
+file:///C:/xampp/htdocs/Website/index.html
+
+
+navigation bar
+
+home page
+about me(about you and picture of yourself)
+resume
+my work
+skills
+My contact details
